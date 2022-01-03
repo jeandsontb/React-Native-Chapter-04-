@@ -20,7 +20,6 @@ O template está disponível no link abaixo:
 
 [GitHub - rocketseat-education/ignite-template-react-native-stream-data](https://github.com/rocketseat-education/ignite-template-react-native-stream-data)
 
-[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a4940e67-78be-49fc-9355-56319c6b6be2/Peek_2021-07-28_17-07.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a4940e67-78be-49fc-9355-56319c6b6be2/Peek_2021-07-28_17-07.mp4)
 
 
 ## O que devo editar na aplicação?
